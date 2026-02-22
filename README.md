@@ -11,3 +11,6 @@ added structure and linked css and js files
 
 commit 3:
 added css in the style file
+
+commit 4:
+added functionalities to the calc and fixed js linking

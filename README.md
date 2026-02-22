@@ -8,3 +8,6 @@ added README,index.html,style.css,func.js
 
 commit 2:
 added structure and linked css and js files
+
+commit 3:
+added css in the style file
